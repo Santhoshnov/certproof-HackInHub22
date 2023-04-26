@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>certproof</title>
+</head>
+<body>
+    <h1 style="color:black;margin:80px; padding: 20px;font-weight: 100;">CERTPROOF</h1>
+    <form action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data" style="margin:30px; padding: 20px;">
+        <input type="file" name="file" required style="margin:30px; padding: 20px; background-color:white; border: none;color: black;">
+        <input type="submit" value="Upload" style="margin:30px; padding: 20px; background-color: white; color: black;">
+    </form>
+</body>
+</html>
