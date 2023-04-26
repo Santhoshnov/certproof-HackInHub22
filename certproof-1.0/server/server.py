@@ -29,7 +29,7 @@ def register(regno):
     pass
 
 @app.route('/verify')
-def verify(regno):
+def verify(certificate):
     pass
 
 if __name__ == '__main__':
