@@ -1,7 +1,7 @@
 # certproof-HackInHub22
 ## Prototype of Academic Certificate validation system using decentralised storage (IPFS)
 
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="right" width="100" height="100" src="![1](https://user-images.githubusercontent.com/108118100/234604854-4699168e-1a5f-4b47-879d-09633bc827fb.png)">
 
 
 
